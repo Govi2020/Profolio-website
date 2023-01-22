@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'Firebase Storage',"Mongo DB","Express js","Socket"],
     source: 'https://github.com/Govi2020/Social-Media-App',
-    visit: 'https://g-social.herokuapp.com/',
+    visit: 'https://govi-social.netlify.app/',
     id: 1,
   },
   {

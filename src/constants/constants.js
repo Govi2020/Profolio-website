@@ -61,5 +61,6 @@ export const TimeLineData = [
   { year: 2020, text: 'Learned Full Stack Development', },
   { year: 2021, text: 'Learned Cyber Security', },
   { year: 2022, text: 'Learned Machine Learning', },
-  { year: 2022, text: 'Worked as a freelance developer and Exploring More', },
+  { year: 2022, text: 'Started A Blog in HashNode', },
+  { year: 2023, text: 'Worked as a freelance developer and Exploring More', },
 ];
